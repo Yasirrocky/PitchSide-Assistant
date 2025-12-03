@@ -1,0 +1,5 @@
+{
+  "name": "PitchSide Assistant",
+  "description": "Your ultimate AI-powered football research companion. Get live match updates, deep player statistics, league tables, and tactical analysis using Google Search grounding.",
+  "requestFramePermissions": []
+}
